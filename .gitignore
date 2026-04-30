@@ -1,0 +1,15 @@
+# Build artifacts
+main
+tests
+*.o
+*.out
+
+# Debug files
+*.dSYM
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.swp
+*~
